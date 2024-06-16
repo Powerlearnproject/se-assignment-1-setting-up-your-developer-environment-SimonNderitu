@@ -12,18 +12,18 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 1. Select Your Operating System (OS):
    Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11
-1.	First confirm system requirements, if your PC meets the requirements then proceed to
-2.	Download windows 11
+   1.	First confirm system requirements, if your PC meets the requirements then proceed to
+   2.	Download windows 11
 first visit the official Microsoft website to download the windows operating system:(https://www.microsoft.com/software-download/windows11)
 Download windows 11 Installation Assistant
 ![alt text](image.png)
-3.	Download Tool: Click on ‘Download Now’ under the ‘Windows 11 Installation Assistant’ section.
+   3.	Download Tool: Click on ‘Download Now’ under the ‘Windows 11 Installation Assistant’ section.
 ![alt text](image-1.png)
-4.	Backup Your Data. Before installation, it is important to back up your files to avoid data loss during the installation process
-5.	Run Installation Assistant: Open the tool and follow the on-screen instructions including selecting installation type, disc partitioning.
-6.	I skipped the installation process since I already have windows 11 installed on my PC.
+   4.	Backup Your Data. Before installation, it is important to back up your files to avoid data loss during the installation process
+   5.	Run Installation Assistant: Open the tool and follow the on-screen instructions including selecting installation type, disc partitioning.
+   6.	I skipped the installation process since I already have windows 11 installed on my PC.
 ![alt text](image-2.png)
-7.	After successful installation, configure your user account, regional settings, and privacy setting and performing needed updates.
+   7.	After successful installation, configure your user account, regional settings, and privacy setting and performing needed updates.
 
 2. Install a Text Editor or Integrated Development Environment (IDE):
    Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/Download
