@@ -59,7 +59,7 @@ Open Git Bash
  
  	echo "# My Project" >> README.md
  	
-   - Add the README file to the staging area:
+   - Add the README file:
  	
  	git add README.md
    - Commit the changes: 
@@ -115,6 +115,9 @@ OPTED NOT TO INSTALL.
    9.	challenges faced during setup and strategies employed to overcome them.
 Challenges 
    1.	Setting up MySQL posed challenges but took initiative to follow the step-by-step installation recording as well as the website documentation.
+   Link containing gitignore file
+https://github.com/SimonNderitu/setup/tree/master 
+
 
 #Deliverables:
 - Document detailing the setup process with step-by-step instructions and screenshots where necessary.
